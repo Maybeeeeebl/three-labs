@@ -1,0 +1,7 @@
+﻿  opengl.cpp
+C:\Users\prost\source\repos\opengl1\opengl\opengl.cpp(103,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\prost\source\repos\opengl1\opengl\opengl.cpp(103,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\prost\source\repos\opengl1\opengl\opengl.cpp(103,19): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  opengl.vcxproj -> C:\Users\prost\source\repos\opengl1\x64\Debug\opengl.exe
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\bin\x64\freeglut.dll
+  Скопировано файлов:         1.
